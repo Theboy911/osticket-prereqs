@@ -78,7 +78,7 @@ Change Permissions of ost-config.php file to everyone has full read write access
 <img src="https://i.imgur.com/0q4zetB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Change Permissions of ost-config.php file to everyone has full read write accesss. 
+Install and download HeidiSQL once installed create a database by right clicking unnamed on the left and navigate similiar to the screenshot. 
 </p>
 <br />
 
@@ -86,7 +86,7 @@ Change Permissions of ost-config.php file to everyone has full read write access
 <img src="https://i.imgur.com/dK5BEk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Change Permissions of ost-config.php file to everyone has full read write accesss. 
+Fill out the information with real or fake information it shouldnt matter but near the bottom of the setup screen fill out the database information with the same information from when you set up MySQL database this info must match. 
 </p>
 <br />
 
@@ -94,6 +94,6 @@ Change Permissions of ost-config.php file to everyone has full read write access
 <img src="https://i.imgur.com/bJQQoJd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Change Permissions of ost-config.php file to everyone has full read write accesss. 
+Once complete you should get a screen like this confirming that osticket has been installed correctly! Now go experment with your new ticketing software!
 </p>
 <br />
