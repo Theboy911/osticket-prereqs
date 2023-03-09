@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a directory in the C:\ drive called PHP
 - Install and Download PHP 7.3.8 then unzip contents into C:\PHP
 - Download and install VC_redist.x86.exe which is a visual C++ redistributable that osticket requires
--Install and download MySQL 5.5.62
+- Install and download MySQL 5.5.62
 
 <h2>Installation Steps</h2>
 
