@@ -50,15 +50,19 @@ Open control panel from start menu. Navigate to "programs" on the left panel. Cl
 <img src="https://i.imgur.com/84wRmnb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open IIS (Internet INformation Services) Manager. Navigate to PHP manager then click Register new PHP version. A file explorer tab should open, then a navigate to tje PHP folder that we copied. Then click php-cgi application in the screenshot and click open. Once complete close IIS and then reopen it and stop and start the server with IIS.
+Open IIS (Internet INformation Services) Manager. Navigate to PHP manager then click Register new PHP version. A file explorer tab should open, then a navigate to tje PHP folder that we copied. Then click php-cgi application in the screenshot and click open. Once complete close IIS and then reopen it and stop and start the server within IIS. Once done navigate back to PHP Manager and this time click enable or disable an extenesion and enable the following extensions
+  
+  - php_imap.dll
+  - php_intl.dll
+  - php_opcache.dll
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YlN0CqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open IIS (Internet INformation Services) Manager. Navigate to PHP manager then click Register new PHP version. A file explorer tab should open, then a navigate to tje PHP folder that we copied. Then click php-cgi application in the screenshot and click open. 
+Navigate to the file location in the screenshot and rename the file ost-sampleconfig.php to ost-config.php. Essentially just deleting the word sample from the file name. 
 </p>
 <br />
 
