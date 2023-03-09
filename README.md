@@ -73,3 +73,27 @@ Navigate to the file location in the screenshot and rename the file ost-sampleco
 Change Permissions of ost-config.php file to everyone has full read write accesss. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/0q4zetB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Change Permissions of ost-config.php file to everyone has full read write accesss. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dK5BEk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Change Permissions of ost-config.php file to everyone has full read write accesss. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bJQQoJd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Change Permissions of ost-config.php file to everyone has full read write accesss. 
+</p>
+<br />
