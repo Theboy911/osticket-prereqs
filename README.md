@@ -42,7 +42,7 @@ Once all dependancies from prerequisites list are installed you then must instal
 <img src="https://i.imgur.com/ThwciRR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open control panel from start menu. Navigate to "programs" on the left panel. Click turn windows features on or off. Scroll to Internet Information Services--> World Wide Web Services--> Application Development Features then scroll and ENABLE CGI.
 </p>
 <br />
 
